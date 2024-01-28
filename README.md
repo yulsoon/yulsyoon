@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm yulianna yoon</h1>
-<h3 align="center">hardware engineer</h3>
+<h1 align="left">Hi 👋, I'm yulianna yoon</h1>
+<h3 align="left">hardware engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
