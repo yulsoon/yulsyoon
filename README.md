@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm yuls yoon</h1>
 <h3 align="left">#Embedded System #Hardware Development #Mixed Signal #Enhancing EMI EMC Performance </h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
